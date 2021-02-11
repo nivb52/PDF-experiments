@@ -1,4 +1,4 @@
-(async function x() {
+(async function testPdfjs() {
     try {
       const fs = require('fs')
       const data_json = require('./chunk_data.json');
