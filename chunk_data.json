@@ -1,0 +1,29 @@
+  {
+    "rank_id": "1",
+    "total_transports_per_day": "3",
+    "total_sum_for_driver": "5744.8270",
+    "transport_number": 2007,
+    "transport_start_datetime": "2020-12-31 22:00:00",
+    "transport_end_datetime": null,
+    "vehicle_license_plate_number": "674-33-601",
+    "reference_number1": "55030054",
+    "driver_note_id_number": "",
+    "transport_type": "אבקות",
+    "transport_commodity_addition": "גיר",
+    "pieces": 1,
+    "weight": "35.76",
+    "volume": "0",
+    "driver_name": "אהרון מגלי",
+    "transport_origin_name": "כפר ביטני",
+    "transport_destination_name": "חיפה",
+    "price": "144.1128",
+    "item_type": "commodity",
+    "customer_name": "העמסה",
+    "transport_trailers_license_plate_numbers": "321-11-456",
+    "number_of_working_days": 17,
+    "max_rank_id_per_employee": "17",
+    "min_rank_id_per_employee": "1",
+    "record_metadata": {
+      "is_data_summery_record": false
+    }
+  }
