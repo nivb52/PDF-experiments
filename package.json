@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index-jsPDF-html.js",
-    "start": "cd pdfkit/ && node index.js"
+    "start": "cd pdf-merge/ && node index.js",
+    "test": "cd pdfkit/ && node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jspdf": "^2.3.0",
+    "pdf-merger-js": "^3.0.5",
     "pdfjs": "^2.4.2",
     "pdfkit": "^0.11.0"
   }
